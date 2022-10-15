@@ -807,8 +807,9 @@ section {
   opacity: 1;
   bottom: 20px;
 }
-#label_customize{
+.label_customize{
   margin: 10px;
+  font-weight:bold;
 }
 
 /*--------------------------------------------------------------
