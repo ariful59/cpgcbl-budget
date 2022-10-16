@@ -4,7 +4,6 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -78,9 +77,11 @@ h6 {
 #header.header-transparent {
   background: none;
 }
-#header.header-color{
+
+#header.header-color {
   background: #008B8B;
 }
+
 #header.header-scrolled {
   background: rgba(5, 44, 63, 0.8);
   padding: 12px 0;
@@ -101,6 +102,7 @@ h6 {
   color: #fff;
   text-decoration: none;
 }
+
 #header .logo img {
   padding: 0;
   margin: 0;
@@ -384,10 +386,12 @@ h6 {
   margin-bottom: 30px;
   font-size: 24px;
 }
-#h2_customize{
+
+#h2_customize {
   margin-top: 30px;
 }
-#h2_header{
+
+#h2_header {
   display: inline;
   float: right;
   margin-left: 10px;
@@ -807,9 +811,10 @@ section {
   opacity: 1;
   bottom: 20px;
 }
-.label_customize{
+
+.label_customize {
   margin: 10px;
-  font-weight:bold;
+  font-weight: bold;
 }
 
 /*--------------------------------------------------------------
@@ -1120,6 +1125,13 @@ section {
 .contact .info:hover i {
   background: #85b0be;
   color: #fff;
+}
+
+.form-text-position {
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: underline;
 }
 
 .contact .php-email-form {
